@@ -1,0 +1,12 @@
+.item-user{
+    display: flex;
+    width: calc(100% / 4 - 10px);
+    height: 250px;
+    align-items:center;
+    justify-content: center;
+    border: 1px solid black;
+}
+.row{
+    display: flex;
+    flex-wrap: wrap;
+}
